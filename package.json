@@ -1,0 +1,16 @@
+{
+  "name": "sheet-assisted-welcome-workflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generic assistant for preparing manual welcome messages from approved spreadsheet rows.",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test",
+    "sample": "node src/cli.js --input samples/approved-rows.json --config config/welcome.config.example.json --output out/welcome-preview.json --output-csv out/welcome-preview.csv",
+    "check": "npm test && npm run sample"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

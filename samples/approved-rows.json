@@ -1,0 +1,29 @@
+[
+  {
+    "record_id": "ROW-2026-0001",
+    "nome": "Ana Example",
+    "telefone": "(11) 99999-0001",
+    "funcao": "Field assistant",
+    "responsavel": "Example Owner",
+    "status_validacao": "Aprovado para boas-vindas",
+    "status_boas_vindas": "Não enviada"
+  },
+  {
+    "record_id": "ROW-2026-0002",
+    "nome": "Bruno Example",
+    "telefone": "+55 21 98888-0002",
+    "funcao": "Content reviewer",
+    "responsavel": "Example Owner",
+    "status_validacao": "Pendente",
+    "status_boas_vindas": "Não enviada"
+  },
+  {
+    "record_id": "ROW-2026-0003",
+    "nome": "Carla Example",
+    "telefone": "31977770003",
+    "funcao": "Operations support",
+    "responsavel": "Example Owner",
+    "status_validacao": "Aprovado",
+    "status_boas_vindas": "Enviada"
+  }
+]

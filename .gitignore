@@ -1,0 +1,16 @@
+node_modules/
+out/
+.env
+.env.*
+*.log
+.DS_Store
+
+# Real deployment configuration stays outside this scaffold.
+config/welcome.config.json
+config/*.private.json
+*.private.json
+*.local.json
+.private/
+private/
+assets-private/
+*.secret.*

@@ -1,0 +1,16 @@
+{
+  "organizationName": "Example Organization",
+  "projectName": "Example Project",
+  "defaultCountryCode": "55",
+  "materials": {
+    "welcomeDocumentUrl": "https://example.com/final-welcome-document.pdf",
+    "orientationVideoUrl": "https://example.com/final-orientation-video",
+    "contextBriefUrl": "https://example.com/final-context-brief",
+    "quickGuideUrl": "https://example.com/final-quick-guide",
+    "followUpFormUrl": "https://example.com/final-follow-up-form"
+  },
+  "message": {
+    "footer": "If you have any questions, reply here and the team will help."
+  },
+  "allowPlaceholdersForTesting": true
+}

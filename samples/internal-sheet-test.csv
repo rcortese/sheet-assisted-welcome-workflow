@@ -1,0 +1,6 @@
+record_id,nome,telefone,funcao,responsavel,status_validacao,status_boas_vindas
+ROW-TEST-0001,Person Test A,(11) 90000-0001,Field assistant,Example Owner,Aprovado para boas-vindas,Não enviada
+ROW-TEST-0002,Person Test B,+55 21 90000-0002,Content reviewer,Example Owner,Validado internamente,
+ROW-TEST-0003,Person Test C,31900000003,Operations support,Example Owner,Pendente,Não enviada
+ROW-TEST-0004,Person Test D,41900000004,Coordinator,Example Owner,Aprovado,Enviada
+ROW-TEST-0005,Person Test E,invalid phone,Assistant,Example Owner,Aprovado,Não enviada
